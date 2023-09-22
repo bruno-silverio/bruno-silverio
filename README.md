@@ -1,4 +1,4 @@
-# Hi, I'm Bruno! :D
+# Hi, I'm Bruno! :)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/bruno-silverio)](https://github.com/bruno-silverio)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-silverio/)](https://www.linkedin.com/in/bruno-silverio/)
