@@ -2,7 +2,6 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/bruno-silverio)](https://github.com/bruno-silverio)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-silverio/)](https://www.linkedin.com/in/bruno-silverio/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519998015134&text=Hello!)](https://api.whatsapp.com/send?phone=5519998015134&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bcamilo94@gmail.com)](mailto:bcamilo94@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/onurb.cs/)
 
@@ -12,12 +11,13 @@ I'm a software developer since 2020. I developed projects for event management, 
 
 - [Website](https://google.com/) 💻 - Working on it.
 
-### Languages and Tools:
+### My Development Toolbelt:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js" />
+    <!--
     <img src="https://skillicons.dev/icons?i=html" />
-    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=css" />-->
     <img src="https://skillicons.dev/icons?i=nodejs" />
     <img src="https://skillicons.dev/icons?i=react" />
     <img src="https://skillicons.dev/icons?i=java" />
@@ -26,20 +26,11 @@ I'm a software developer since 2020. I developed projects for event management, 
     <img src="https://skillicons.dev/icons?i=cs" />-->
     <img src="https://skillicons.dev/icons?i=git" />
     <img src="https://skillicons.dev/icons?i=vscode" />
-    <img src="https://skillicons.dev/icons?i=docker" />
     <img src="https://skillicons.dev/icons?i=firebase" />
+    <img src="https://skillicons.dev/icons?i=docker" />
     <img src="https://skillicons.dev/icons?i=tensorflow" />
   </a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+<img width="480px" height="268px" src="https://github.com/bruno-silverio/bruno-silverio/blob/main/giphy.gif">
+</p>
