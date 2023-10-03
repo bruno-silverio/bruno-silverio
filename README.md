@@ -7,9 +7,9 @@
 
 
 ### About me
-I'm a Software Developer with experience since 2020. I've had the opportunity to create a variety of applications, spanning areas such as event management and vacation property management, among others. Additionally, I enjoyed an enriching stint at a urban mobility startup, Parkeen, where I expanded my skills in mobile and web application development, encompassing Front-end, Back-end, and database work.
+I'm a Software Developer with experience since 2020. I've had the opportunity to create a variety of applications, spanning areas such as event management and vacation property management, among others. Additionally, I enjoyed an enriching stint at an urban mobility startup, Parkeen, where I expanded my skills in mobile and web application development, encompassing Front-end, Back-end, and database work.
 
-My passion for technology is evident in my pursuit of crafting successful products that efficiently tackle challenges. I am a dedicated team player, focused on delivering results and maximizing profits. I bring a solid background in simplify processes to improve the customer experience.
+My passion for technology is evident in my pursuit of crafting successful products that efficiently tackle challenges. I am a dedicated team player, focused on delivering results and maximizing profits. I bring a solid background in simplifying processes to improve the customer experience.
 
 - [Website](https://google.com/) 💻 - Working on it.
 
