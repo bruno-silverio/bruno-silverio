@@ -26,6 +26,7 @@ My passion for technology is evident in my pursuit of crafting successful produc
     <img src="https://skillicons.dev/icons?i=react" />
     <img src="https://skillicons.dev/icons?i=java" />
     <img src="https://skillicons.dev/icons?i=py" />
+    <img src="https://skillicons.dev/icons?i=tensorflow" />
     <!--<img src="https://skillicons.dev/icons?i=androidstudio" />
     <img src="https://skillicons.dev/icons?i=kotlin" />
     <img src="https://skillicons.dev/icons?i=cs" />
@@ -38,7 +39,7 @@ My passion for technology is evident in my pursuit of crafting successful produc
     <img src="https://skillicons.dev/icons?i=docker" />
     <img src="https://skillicons.dev/icons?i=kubernetes" />
     <img src="https://skillicons.dev/icons?i=aws" />
-    <img src="https://skillicons.dev/icons?i=tensorflow" />
+    
   </a>
 </p>
 <p align="center">
